@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/hongmoSung?logo=github)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongmoSung&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongmoSung&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongmoSung&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
