@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-white?style=flat&logoColor=black&logo=notion"/></a>
+<img src="https://img.shields.io/badge/Teams-9900ff?style=flat&logoColor=white&logo=microsoftTeams"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongmoSung&theme=onedark&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongmoSung&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
