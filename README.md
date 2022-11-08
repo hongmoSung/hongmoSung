@@ -29,5 +29,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongmoSung&theme=onedark&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongmoSung&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hongmoSung&margin-w=8)]
-(https://github-profile-trophy.vercel.app/?username=hongmoSung&margin-w=8)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=hongmoSung&margin-w=8)](https://github-profile-trophy.vercel.app/?username=hongmoSung&margin-w=8)
